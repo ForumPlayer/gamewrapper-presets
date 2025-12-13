@@ -3,7 +3,7 @@ use warnings;
 use strict;
 
 our %FeatureFlags = (
-    'Gamescope' => 0,
+    'Gamescope' => 1,
     'MangoHud'  => 0,
     'MangoApp'  => 0,
     'Zink'      => 0,
