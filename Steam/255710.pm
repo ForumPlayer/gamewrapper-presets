@@ -17,6 +17,7 @@ our %GamescopeConfig = (
     'output-height'     => 1080,
     'fullscreen'        => 1,
     'borderless'        => 1,
+    #'force-grab-cursor' => 0,
     #'expose-wayland'    => 0,
     #'xwayland-count'    => 1,
     #'steam-integration' => 0,
